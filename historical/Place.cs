@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Linea_Lima.historical {
+namespace historian.historical {
 
     internal class Place {
 	private string name;

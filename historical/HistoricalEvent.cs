@@ -16,7 +16,7 @@ namespace Linea_Lima.historical{
         private bool commonEra; //True AD, false BC
         private Place place;
         private List<Persona> personaList; //list of characters
-=======
+
         private List<Persona> involved;
         //struct for the Date
         
