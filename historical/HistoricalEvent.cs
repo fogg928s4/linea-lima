@@ -12,6 +12,9 @@ using System.Threading.Tasks;
 
 namespace Linea_Lima.historical{
     public class HistoricalEvent {
-
+        private int year;
+        private bool commonEra; //True AD, false BC
+        private Place place;
+        private List<Persona> personaList; //list of characters
     }
 }
