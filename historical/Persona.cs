@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 /// This class is meant to hold the information of people or characters or institutions
 /// that participated on a given event or series of events
 /// </summary>
-namespace Linea_Lima.historical {
+namespace historian.historical {
     internal class Persona {
         private string name;
         private int age;

@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 ///really fun
 ///</summary>
 
-namespace Linea_Lima.historical{
+namespace historian.historical{
     public class HistoricalPeriod {
         private List<Persona> involved;
         private List<Place> places;

@@ -10,7 +10,7 @@ using System;
 ///It includes the necessary elements from the get go
 ///</summary>
 
-namespace Linea_Lima.historical{
+namespace historian.historical{
     public class HistoricalEvent {
         private int year;
         private bool commonEra; //True AD, false BC
